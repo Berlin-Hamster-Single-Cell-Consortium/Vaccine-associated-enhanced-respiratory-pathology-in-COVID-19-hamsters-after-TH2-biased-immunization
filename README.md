@@ -8,5 +8,5 @@ Vaccine-associated enhanced respiratory disease (VAERD) has been a severe compli
 
 ## Data availability
 
-Raw data and the processed Seurat object for the single cell RNA sequencing analysis has been uploaded to GEO with the accession number GSE196938 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196938. The raw data for bulk RNA sequencing analysis can be downloaded from FigShare https://figshare.com/projects/Vaccine-associated-enhanced-respiratory-pathology-in-COVID-19-hamsters-after-TH2-biased-immunization/142469.
+Raw data and the processed Seurat object for the single cell RNA sequencing analysis has been uploaded to GEO with the accession number GSE196938 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196938. The raw data for bulk RNA sequencing analysis has been uploaded to GEO with accession number GSE195939 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195939, while the processed count data can be downloaded from FigShare https://figshare.com/projects/Vaccine-associated-enhanced-respiratory-pathology-in-COVID-19-hamsters-after-TH2-biased-immunization/142469.
 
