@@ -6,7 +6,7 @@ For scRNAseq analysis, the code has been separated into four segments and the or
 
 Vaccine-associated enhanced respiratory disease (VAERD) has been a severe complication for some respiratory infections. To investigate the potential for VAERD induction in COVID-19, we evaluated two vaccine leads utilizing a severe hamster infection model: a TH1-biased measles vaccine-derived candidate and a TH2-biased alum-adjuvanted, non-stabilized Spike protein. The MeV-derived vaccine protected the animals, but the protein lead induced VAERD, which could be alleviated by dexamethasone treatment. Bulk transcriptomic analysis revealed that our protein vaccine prepared enhanced host gene dysregulation in the lung, exclusively up-regulating mRNAs encoding the eosinophil attractant CCL-11, TH2-driving IL-19, or TH2-cytokines IL-4, IL-5, and IL-13. scRNA-Seq identified lung macrophages or lymphoid cells as sources, respectively. Our findings imply VAERD is caused by the concerted action of hyperstimulated macrophages and TH2 cytokine-secreting lymphoid cells and potentially links VAERD to antibody-dependent enhancement (ADE). In summary, we identify the cytokine drivers and cellular contributors, which mediate VAERD after TH2-biased vaccination. 
 
-![Ebenig et al  Graphical abstract revised R2](https://user-images.githubusercontent.com/61689250/179393912-30a698e9-9623-4239-a7d6-f7a79c0f8624.png)
+![Ebenig et al  Graphical abstract revised R2](https://user-images.githubusercontent.com/61689250/179394082-74b96c8c-517a-4c79-8158-b8b2b4ed1040.jpg)
 
 ## Data availability
 
