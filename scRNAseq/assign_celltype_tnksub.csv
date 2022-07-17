@@ -1,0 +1,13 @@
+cluster;subtype
+0;cd4.cd8_activated
+1;cd4.cd8_naive
+2;cd4.cd8_activated
+3;cd4.cd8_activated
+4;nk
+5;cd4_memory
+6;nk
+7;nk
+8;nk
+9;ilc
+10;cd4.cd8_activated
+11;cd4_treg
